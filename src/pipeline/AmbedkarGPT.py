@@ -9,7 +9,7 @@ from src.retrieval.local_search import local_graph_rag_search
 from src.retrieval.global_search import global_graph_rag_search
 
 # ---------- CONFIG ----------
-LLM_MODEL = "llama3"     # or "mistral-7b" etc.
+LLM_MODEL = "llama3.1:8b"     # or "mistral-7b" etc.
 MAX_LOCAL_EVIDENCE = 10
 MAX_GLOBAL_EVIDENCE = 10
 
