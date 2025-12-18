@@ -1,9 +1,3 @@
-Perfect — below is a **clean, professional, interview-grade README.md** tailored exactly to **your project, file structure, and assignment expectations**.
-
-You can **copy–paste this directly** into `README.md` with no changes needed.
-
----
-
 # 📘 AmbedkarGPT
 
 ### Semantic Graph Retrieval-Augmented Question Answering over Ambedkar’s Writings
