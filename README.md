@@ -1,84 +1,180 @@
-📌 AmbedkarGPT — Graph-based Retrieval Augmented Generation (SemRAG)
+Perfect — below is a **clean, professional, interview-grade README.md** tailored exactly to **your project, file structure, and assignment expectations**.
 
-AmbedkarGPT is a graph-augmented question-answering system built over the writings of Dr. B. R. Ambedkar, implementing Semantic Graph RAG (SemRAG) principles using entity graphs, community detection, and multi-level retrieval.
+You can **copy–paste this directly** into `README.md` with no changes needed.
 
-⚙️ Setup Instructions
-1. Clone the Repository
+---
+
+# 📘 AmbedkarGPT
+
+### Semantic Graph Retrieval-Augmented Question Answering over Ambedkar’s Writings
+
+AmbedkarGPT is a **Semantic Graph-based Retrieval Augmented Generation (SemRAG)** system built on the writings of **Dr. B. R. Ambedkar**.
+It answers conceptual and analytical questions by combining **knowledge graphs**, **community-aware retrieval**, and **local LLM inference**, ensuring **faithful and explainable answers grounded strictly in the source text**.
+
+---
+
+## ✨ Key Features
+
+* 📚 **Book-Grounded QA** – Answers are generated exclusively from Ambedkar’s writings
+* 🧠 **Semantic Graph RAG (SemRAG)** – Entity-level and community-level retrieval
+* 🔗 **Knowledge Graph Construction** – Entities, relations, and co-occurrence edges
+* 🌍 **Dual Retrieval Strategy**
+
+  * **Local Graph RAG** (fine-grained evidence)
+  * **Global Graph RAG** (thematic context)
+* 🤖 **Local LLM Inference** using Ollama (no external APIs)
+* 🖥️ **Gradio-based Q&A Interface** (not a chatbot)
+
+---
+
+## 📁 Project Structure (Simplified)
+
+```
+AmbedkarGPT/
+├── data/
+│   ├── pages/              # Page-wise book text
+│   ├── processed/          # Chunks and embeddings
+│   ├── graph/              # Knowledge graphs & communities
+├── src/
+│   ├── chunking/           # Semantic chunking logic
+│   ├── graph/              # Graph construction & community detection
+│   ├── retrieval/          # Local & Global Graph RAG
+│   └── pipeline/
+│       └── AmbedkarGPT.py  # End-to-end demo (run this)
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
 git clone <private-repo-url>
 cd AmbedkarGPT
+```
 
-2. Create and Activate Virtual Environment
+---
+
+### 2. Create & Activate Virtual Environment
+
+```bash
 python -m venv venv
+```
 
+**Windows**
 
-Windows
-
+```bash
 venv\Scripts\activate
+```
 
+**Linux / macOS**
 
-Linux / macOS
-
+```bash
 source venv/bin/activate
+```
 
-3. Install Dependencies
+---
+
+### 3. Install Dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
-4. Install and Run Ollama (LLM Backend)
+---
 
-This project uses Ollama for local LLM inference.
+### 4. Install Ollama (LLM Backend)
 
-Download Ollama: https://ollama.com
+AmbedkarGPT uses **Ollama** for local LLM inference.
 
-Pull a model (recommended):
+Download: [https://ollama.com](https://ollama.com)
 
+Pull a model:
+
+```bash
 ollama pull mistral
 # or
 ollama pull llama3
+```
 
+Start Ollama:
 
-Ensure Ollama is running:
-
+```bash
 ollama serve
+```
 
-▶️ Running the Demo (Interview-Ready)
+---
 
-The complete end-to-end pipeline (retrieval + answer generation + UI) is available as a single script.
+## ▶️ Running the Demo (Interview-Ready)
 
+Run the complete end-to-end system:
+
+```bash
 python src/pipeline/AmbedkarGPT.py
+```
 
+This launches a **Gradio Question–Answer interface** in your browser.
 
-This launches a Gradio-based Question–Answer interface in your browser.
+### Input
 
-Input: Natural language question related to Ambedkar’s writings
+* Conceptual or analytical questions related to Ambedkar’s writings
 
-Output:
+  * Example: *“Explain caste in relation to religion and society”*
 
-Generated answer
+### Output
 
-Local Graph RAG evidence
+* ✅ Final generated answer
+* 🔍 Local Graph RAG evidence (entity-based)
+* 🌍 Global Graph RAG evidence (community-based)
 
-Global Graph RAG evidence
+---
 
-📂 Data & Preprocessing Notes
+## 🧠 System Architecture Overview
 
-The book is preprocessed and stored in data/pages/
+1. **Text Processing**
 
-Chunking, embeddings, graph construction, and community summaries are precomputed
+   * Page-wise extraction and semantic chunking
 
-No additional preprocessing is required to run the demo
+2. **Embedding Generation**
 
-🧪 Optional: Notebook-Based Analysis
+   * Sentence-transformer embeddings for chunks and summaries
 
-For step-by-step experimentation and diagnostics, see:
+3. **Knowledge Graph Construction**
 
-Testing/Process.ipynb
+   * Nodes: entities
+   * Edges: relations + co-occurrence
 
-🔁 Rebuilding the Pipeline (Optional)
+4. **Community Detection**
 
-If required, individual pipeline stages can be re-run:
+   * Thematic clustering of graph nodes
 
-Chunking: src/chunking/
+5. **Dual Retrieval (SemRAG)**
 
-Graph construction: src/graph/
+   * Local Graph RAG → precise evidence
+   * Global Graph RAG → thematic context
 
-Retrieval: src/retrieval/
+6. **Answer Generation**
+
+   * Local LLM with strict prompt grounding
+
+---
+
+## 🎯 Design Goals
+
+* Prevent hallucinations
+* Preserve author intent
+* Enable explainable retrieval
+* Support academic & exam-style questions
+* Demonstrate SemRAG principles clearly
+
+---
+
+## 🧪 Notes
+
+* All preprocessing outputs are precomputed and stored in `data/`
+* The system can be extended to other books by re-running the pipeline
+* No external APIs or cloud services are required
+
