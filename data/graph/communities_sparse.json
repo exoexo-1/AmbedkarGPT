@@ -1,0 +1,4822 @@
+{
+  "stats": {
+    "graph": "sparse",
+    "num_nodes": 617,
+    "num_edges": 20,
+    "num_communities": 599,
+    "largest_community_size": 6,
+    "smallest_community_size": 1
+  },
+  "communities": {
+    "0": {
+      "size": 1,
+      "entities": [
+        "Genesis"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "1": {
+      "size": 1,
+      "entities": [
+        "Development Paper"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "2": {
+      "size": 1,
+      "entities": [
+        "the Anthropology Seminar of Dr. A. A. Goldenweizer"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "3": {
+      "size": 1,
+      "entities": [
+        "The Columbia University"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "4": {
+      "size": 1,
+      "entities": [
+        "New York"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "5": {
+      "size": 1,
+      "entities": [
+        "U.S.A."
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "6": {
+      "size": 1,
+      "entities": [
+        "9th May 1916"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "7": {
+      "size": 1,
+      "entities": [
+        "Indian Antiquary"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "8": {
+      "size": 1,
+      "entities": [
+        "May 1917"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "9": {
+      "size": 1,
+      "entities": [
+        "Seminar"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "10": {
+      "size": 1,
+      "entities": [
+        "Castes in India : Their"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "11": {
+      "size": 6,
+      "entities": [
+        "Caste",
+        "Hindu",
+        "Shastras",
+        "Mahatma",
+        "Veda",
+        "Bania"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "12": {
+      "size": 1,
+      "entities": [
+        "Subtler"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "13": {
+      "size": 1,
+      "entities": [
+        "India"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "14": {
+      "size": 5,
+      "entities": [
+        "Hindus",
+        "Religion",
+        "Mohammedans",
+        "Smritis",
+        "Law"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "15": {
+      "size": 1,
+      "entities": [
+        "Indian"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "16": {
+      "size": 1,
+      "entities": [
+        "Aryans"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "17": {
+      "size": 1,
+      "entities": [
+        "Dravidians"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "18": {
+      "size": 1,
+      "entities": [
+        "Mongolians"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "19": {
+      "size": 1,
+      "entities": [
+        "Scythians"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "20": {
+      "size": 1,
+      "entities": [
+        "centuries ago"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "21": {
+      "size": 1,
+      "entities": [
+        "East"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "22": {
+      "size": 1,
+      "entities": [
+        "West"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "23": {
+      "size": 1,
+      "entities": [
+        "South"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "24": {
+      "size": 1,
+      "entities": [
+        "North"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "25": {
+      "size": 1,
+      "entities": [
+        "the Indian Peninsula"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "26": {
+      "size": 1,
+      "entities": [
+        "the Hindu Society"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "27": {
+      "size": 1,
+      "entities": [
+        "Senart"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "28": {
+      "size": 1,
+      "entities": [
+        "French"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "29": {
+      "size": 1,
+      "entities": [
+        "Ketkar"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "30": {
+      "size": 1,
+      "entities": [
+        "Nesfield"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "31": {
+      "size": 1,
+      "entities": [
+        "H. Risley"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "32": {
+      "size": 1,
+      "entities": [
+        "INDIA"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "33": {
+      "size": 1,
+      "entities": [
+        "Castes"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "34": {
+      "size": 1,
+      "entities": [
+        "N"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "35": {
+      "size": 1,
+      "entities": [
+        "esfield"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "36": {
+      "size": 1,
+      "entities": [
+        "Prohibition of Intermarriage"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "37": {
+      "size": 1,
+      "entities": [
+        "Autogeny"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "38": {
+      "size": 1,
+      "entities": [
+        "Negroes"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "39": {
+      "size": 1,
+      "entities": [
+        "Whites"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "40": {
+      "size": 1,
+      "entities": [
+        "American"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "41": {
+      "size": 1,
+      "entities": [
+        "Indians"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "42": {
+      "size": 1,
+      "entities": [
+        "the United States"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "43": {
+      "size": 1,
+      "entities": [
+        "Endogamy"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "44": {
+      "size": 1,
+      "entities": [
+        "today"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "45": {
+      "size": 1,
+      "entities": [
+        "Exogamy"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "46": {
+      "size": 1,
+      "entities": [
+        "Sapindas"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "47": {
+      "size": 1,
+      "entities": [
+        "Sagotras"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "48": {
+      "size": 1,
+      "entities": [
+        "Gotras"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "49": {
+      "size": 1,
+      "entities": [
+        "the Caste"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "50": {
+      "size": 1,
+      "entities": [
+        "Grahastha"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "51": {
+      "size": 1,
+      "entities": [
+        "Sanskrit"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "52": {
+      "size": 1,
+      "entities": [
+        "Hindu Society"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "53": {
+      "size": 1,
+      "entities": [
+        "Sannyasa"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "54": {
+      "size": 1,
+      "entities": [
+        "Sati"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "55": {
+      "size": 1,
+      "entities": [
+        "A. K. Coomaraswamy"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "56": {
+      "size": 1,
+      "entities": [
+        "the British Sociological Review"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "57": {
+      "size": 1,
+      "entities": [
+        "1913"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "58": {
+      "size": 1,
+      "entities": [
+        "Uma"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "59": {
+      "size": 1,
+      "entities": [
+        "Vol"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "60": {
+      "size": 1,
+      "entities": [
+        "Maheshvara"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "61": {
+      "size": 1,
+      "entities": [
+        "ara”"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "62": {
+      "size": 1,
+      "entities": [
+        "the 18th century"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "63": {
+      "size": 1,
+      "entities": [
+        "the Origin of Caste"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "64": {
+      "size": 1,
+      "entities": [
+        "Origin"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "65": {
+      "size": 1,
+      "entities": [
+        "The Origin of the Mechanism for Endogamy"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "66": {
+      "size": 1,
+      "entities": [
+        "1909"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "67": {
+      "size": 1,
+      "entities": [
+        "pp"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "68": {
+      "size": 1,
+      "entities": [
+        "Society"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "70": {
+      "size": 4,
+      "entities": [
+        "Brahmins",
+        "Sonars",
+        "Kshatriyas",
+        "Bhudevas"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "71": {
+      "size": 1,
+      "entities": [
+        "non-Brahmin"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "72": {
+      "size": 1,
+      "entities": [
+        "non-Brahmin Castes"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "73": {
+      "size": 2,
+      "entities": [
+        "Brahmin",
+        "Kshatriya"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "74": {
+      "size": 1,
+      "entities": [
+        "un"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "75": {
+      "size": 1,
+      "entities": [
+        "Manu"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "76": {
+      "size": 1,
+      "entities": [
+        "Caste Dharma"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "77": {
+      "size": 1,
+      "entities": [
+        "the Caste System"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "78": {
+      "size": 1,
+      "entities": [
+        "Vedas"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "79": {
+      "size": 1,
+      "entities": [
+        "Matthew Arnold"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "80": {
+      "size": 1,
+      "entities": [
+        "Denzil Ibbetson"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "81": {
+      "size": 1,
+      "entities": [
+        "the Petitio Principii"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "82": {
+      "size": 1,
+      "entities": [
+        "Herbert Spencer"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "83": {
+      "size": 1,
+      "entities": [
+        "Vaishya"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "84": {
+      "size": 1,
+      "entities": [
+        "Shudra"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "85": {
+      "size": 1,
+      "entities": [
+        "AMB"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "86": {
+      "size": 1,
+      "entities": [
+        "Kshatri"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "87": {
+      "size": 1,
+      "entities": [
+        "ya class"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "88": {
+      "size": 1,
+      "entities": [
+        "the Brah"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "89": {
+      "size": 1,
+      "entities": [
+        "Walter Bagehot"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "90": {
+      "size": 1,
+      "entities": [
+        "Gabriel Tarde"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "91": {
+      "size": 1,
+      "entities": [
+        "Tarde"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "92": {
+      "size": 1,
+      "entities": [
+        "daily"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "93": {
+      "size": 1,
+      "entities": [
+        "Frail"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "94": {
+      "size": 1,
+      "entities": [
+        "days"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "95": {
+      "size": 1,
+      "entities": [
+        "this day"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "96": {
+      "size": 1,
+      "entities": [
+        "1915"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "97": {
+      "size": 1,
+      "entities": [
+        "E.C. Parsons"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "98": {
+      "size": 1,
+      "entities": [
+        "Tardian"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "99": {
+      "size": 1,
+      "entities": [
+        "Jews"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "100": {
+      "size": 1,
+      "entities": [
+        "Christians"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "101": {
+      "size": 1,
+      "entities": [
+        "Parsis"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "102": {
+      "size": 1,
+      "entities": [
+        "Group A"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "103": {
+      "size": 1,
+      "entities": [
+        "Group B"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "104": {
+      "size": 1,
+      "entities": [
+        "Guru (Prophet"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "105": {
+      "size": 1,
+      "entities": [
+        "European"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "106": {
+      "size": 1,
+      "entities": [
+        "Aryan"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "107": {
+      "size": 1,
+      "entities": [
+        "Dravidian"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "108": {
+      "size": 1,
+      "entities": [
+        "Aryas"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "109": {
+      "size": 1,
+      "entities": [
+        "a Supreme Authority"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "110": {
+      "size": 1,
+      "entities": [
+        "Mahatma Gandhi"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "111": {
+      "size": 1,
+      "entities": [
+        "Truth"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "112": {
+      "size": 1,
+      "entities": [
+        "Untruth as Untruth"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "113": {
+      "size": 1,
+      "entities": [
+        "DARE"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "114": {
+      "size": 1,
+      "entities": [
+        "1944 2"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "115": {
+      "size": 1,
+      "entities": [
+        "Lahore"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "116": {
+      "size": 1,
+      "entities": [
+        "two months"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "117": {
+      "size": 1,
+      "entities": [
+        "Gujarati"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "118": {
+      "size": 1,
+      "entities": [
+        "Tamil"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "119": {
+      "size": 1,
+      "entities": [
+        "Marathi"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "120": {
+      "size": 1,
+      "entities": [
+        "Malayalam"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "121": {
+      "size": 1,
+      "entities": [
+        "a Second Edition"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "122": {
+      "size": 1,
+      "entities": [
+        "Appendix"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "123": {
+      "size": 1,
+      "entities": [
+        "Gandhi"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "124": {
+      "size": 1,
+      "entities": [
+        "Harijan"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "125": {
+      "size": 1,
+      "entities": [
+        "Sant Ram"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "126": {
+      "size": 1,
+      "entities": [
+        "Appendix I. Besides"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "127": {
+      "size": 1,
+      "entities": [
+        "B. R. AMBEDKAR PREFACE"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "128": {
+      "size": 1,
+      "entities": [
+        "Essay"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "129": {
+      "size": 1,
+      "entities": [
+        "1937"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "130": {
+      "size": 1,
+      "entities": [
+        "Castes in India"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "131": {
+      "size": 1,
+      "entities": [
+        "the Indian Antiquary Journal"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "132": {
+      "size": 1,
+      "entities": [
+        "Prithwiraj Road B. R."
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "133": {
+      "size": 1,
+      "entities": [
+        "New Delhi"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "134": {
+      "size": 1,
+      "entities": [
+        "1st December 1944"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "135": {
+      "size": 1,
+      "entities": [
+        "December 1944"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "136": {
+      "size": 1,
+      "entities": [
+        "December 12, 1935"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "137": {
+      "size": 1,
+      "entities": [
+        "Saheb"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "138": {
+      "size": 1,
+      "entities": [
+        "the 5th December"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "139": {
+      "size": 1,
+      "entities": [
+        "Kranti"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "140": {
+      "size": 1,
+      "entities": [
+        "Conferences"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "141": {
+      "size": 1,
+      "entities": [
+        "Executive Committee"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "142": {
+      "size": 1,
+      "entities": [
+        "Independent Harijans of Punjab"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "143": {
+      "size": 1,
+      "entities": [
+        "Indra Singh"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "144": {
+      "size": 1,
+      "entities": [
+        "Bombay"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "145": {
+      "size": 1,
+      "entities": [
+        "Xmas"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "146": {
+      "size": 1,
+      "entities": [
+        "Caste Hindu Social Reformers"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "147": {
+      "size": 1,
+      "entities": [
+        "the Caste Hindus"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "148": {
+      "size": 1,
+      "entities": [
+        "The Annual Conference"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "149": {
+      "size": 1,
+      "entities": [
+        "Mandal"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "150": {
+      "size": 1,
+      "entities": [
+        "Easter"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "151": {
+      "size": 1,
+      "entities": [
+        "the middle of May 1936"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "152": {
+      "size": 1,
+      "entities": [
+        "The Reception Committee of the Mandal"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "153": {
+      "size": 1,
+      "entities": [
+        "Ji"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "154": {
+      "size": 1,
+      "entities": [
+        "Punjab"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "155": {
+      "size": 1,
+      "entities": [
+        "all quarters"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "156": {
+      "size": 1,
+      "entities": [
+        "Bhai Parmanand"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "157": {
+      "size": 1,
+      "entities": [
+        "Hindu Maha Sabha"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "158": {
+      "size": 1,
+      "entities": [
+        "Mahatma Hans Raj"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "159": {
+      "size": 1,
+      "entities": [
+        "Gokal Chand"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "160": {
+      "size": 1,
+      "entities": [
+        "Narendra Nath"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "161": {
+      "size": 1,
+      "entities": [
+        "M.L.C."
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "162": {
+      "size": 1,
+      "entities": [
+        "CASTE"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "163": {
+      "size": 1,
+      "entities": [
+        "Ambedkar"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "164": {
+      "size": 1,
+      "entities": [
+        "G. C. N"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "165": {
+      "size": 1,
+      "entities": [
+        "Har Bhagwan"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "166": {
+      "size": 1,
+      "entities": [
+        "the 9th of April"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "167": {
+      "size": 1,
+      "entities": [
+        "April 14, 1936"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "168": {
+      "size": 1,
+      "entities": [
+        "Sahib"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "169": {
+      "size": 1,
+      "entities": [
+        "the 12th"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "170": {
+      "size": 1,
+      "entities": [
+        "Amritsar"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "171": {
+      "size": 1,
+      "entities": [
+        "the 25th"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "172": {
+      "size": 1,
+      "entities": [
+        "the Reception Committee"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "173": {
+      "size": 1,
+      "entities": [
+        "Press"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "174": {
+      "size": 1,
+      "entities": [
+        "Eight days later"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "175": {
+      "size": 2,
+      "entities": [
+        "Conference",
+        "Congress"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "176": {
+      "size": 1,
+      "entities": [
+        "the 25th and"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "177": {
+      "size": 1,
+      "entities": [
+        "warmer every day"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "178": {
+      "size": 1,
+      "entities": [
+        "the middle of May"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "179": {
+      "size": 1,
+      "entities": [
+        "the day"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "180": {
+      "size": 1,
+      "entities": [
+        "May"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "181": {
+      "size": 1,
+      "entities": [
+        "Brahminism"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "182": {
+      "size": 1,
+      "entities": [
+        "kin"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "183": {
+      "size": 1,
+      "entities": [
+        "DR"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "184": {
+      "size": 1,
+      "entities": [
+        "27th April 1936"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "185": {
+      "size": 1,
+      "entities": [
+        "the 22nd April"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "186": {
+      "size": 1,
+      "entities": [
+        "the Reception Committee of the Jat-Pat-Todak Mandal"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "187": {
+      "size": 1,
+      "entities": [
+        "Committee"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "188": {
+      "size": 1,
+      "entities": [
+        "Hindu Religion"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "189": {
+      "size": 1,
+      "entities": [
+        "Reformer"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "190": {
+      "size": 1,
+      "entities": [
+        "the 9th April"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "191": {
+      "size": 1,
+      "entities": [
+        "the 14th"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "192": {
+      "size": 1,
+      "entities": [
+        "the Sikh Prachar Conference"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "193": {
+      "size": 1,
+      "entities": [
+        "the Committee"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "194": {
+      "size": 1,
+      "entities": [
+        "between the 14th and the 22nd April"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "195": {
+      "size": 1,
+      "entities": [
+        "MBEDKAR"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "196": {
+      "size": 1,
+      "entities": [
+        "Caste Hindus"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "197": {
+      "size": 1,
+      "entities": [
+        "Untouchables"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "198": {
+      "size": 1,
+      "entities": [
+        "Rajgriha"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "199": {
+      "size": 1,
+      "entities": [
+        "Dadar"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "200": {
+      "size": 1,
+      "entities": [
+        "14 15th May 1936"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "201": {
+      "size": 1,
+      "entities": [
+        "B.R."
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "202": {
+      "size": 1,
+      "entities": [
+        "1936"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "203": {
+      "size": 1,
+      "entities": [
+        "Speech"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "204": {
+      "size": 1,
+      "entities": [
+        "the Conference 37"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "205": {
+      "size": 1,
+      "entities": [
+        "Shastric"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "206": {
+      "size": 2,
+      "entities": [
+        "Guru",
+        "Antyaja"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "207": {
+      "size": 1,
+      "entities": [
+        "Varnas"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "208": {
+      "size": 1,
+      "entities": [
+        "Ramdas"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "209": {
+      "size": 1,
+      "entities": [
+        "Maharashtra"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "210": {
+      "size": 1,
+      "entities": [
+        "Shivaji"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "211": {
+      "size": 1,
+      "entities": [
+        "the Shastras the Brahmin"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "212": {
+      "size": 1,
+      "entities": [
+        "Dasbodh"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "213": {
+      "size": 1,
+      "entities": [
+        "Savarnas"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "214": {
+      "size": 1,
+      "entities": [
+        "socialists"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "215": {
+      "size": 1,
+      "entities": [
+        "the National Congress"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "216": {
+      "size": 1,
+      "entities": [
+        "the Social Conference"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "217": {
+      "size": 1,
+      "entities": [
+        "annual"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "218": {
+      "size": 1,
+      "entities": [
+        "a Political Reform Party"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "219": {
+      "size": 1,
+      "entities": [
+        "a Social Reform Party"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "220": {
+      "size": 1,
+      "entities": [
+        "Social Reform Party"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "221": {
+      "size": 1,
+      "entities": [
+        "The Political Reform Party"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "222": {
+      "size": 1,
+      "entities": [
+        "the National Congress and Social Reform Party"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "223": {
+      "size": 1,
+      "entities": [
+        "a decade"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "224": {
+      "size": 1,
+      "entities": [
+        "Tilak"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "225": {
+      "size": 1,
+      "entities": [
+        "W.C. Bonnerji"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "226": {
+      "size": 1,
+      "entities": [
+        "1892"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "227": {
+      "size": 1,
+      "entities": [
+        "Allahabad"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "228": {
+      "size": 1,
+      "entities": [
+        "Bonnerji"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "229": {
+      "size": 1,
+      "entities": [
+        "Oxford"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "230": {
+      "size": 1,
+      "entities": [
+        "Cambridge"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "231": {
+      "size": 1,
+      "entities": [
+        "Maratha"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "232": {
+      "size": 1,
+      "entities": [
+        "Poona"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "233": {
+      "size": 1,
+      "entities": [
+        "Central India"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "234": {
+      "size": 1,
+      "entities": [
+        "the Times of India"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "235": {
+      "size": 1,
+      "entities": [
+        "January 1928"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "236": {
+      "size": 1,
+      "entities": [
+        "Kalotas"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "237": {
+      "size": 1,
+      "entities": [
+        "Rajputs"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "238": {
+      "size": 1,
+      "entities": [
+        "Patwaris"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "239": {
+      "size": 1,
+      "entities": [
+        "Kanaria"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "240": {
+      "size": 1,
+      "entities": [
+        "Bicholi"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "241": {
+      "size": 1,
+      "entities": [
+        "Mardana"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "242": {
+      "size": 1,
+      "entities": [
+        "the Indore State"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "243": {
+      "size": 1,
+      "entities": [
+        "Brahm"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "244": {
+      "size": 1,
+      "entities": [
+        "Balais"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "245": {
+      "size": 1,
+      "entities": [
+        "Balai"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "246": {
+      "size": 1,
+      "entities": [
+        "alais"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "247": {
+      "size": 1,
+      "entities": [
+        "Darbar"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "248": {
+      "size": 1,
+      "entities": [
+        "States"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "249": {
+      "size": 1,
+      "entities": [
+        "Dhar"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "250": {
+      "size": 1,
+      "entities": [
+        "Dewas"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "251": {
+      "size": 1,
+      "entities": [
+        "Bagli"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "252": {
+      "size": 1,
+      "entities": [
+        "Bhopal"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "253": {
+      "size": 1,
+      "entities": [
+        "Kavitha"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "254": {
+      "size": 1,
+      "entities": [
+        "Gujarat"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "255": {
+      "size": 1,
+      "entities": [
+        "only last year"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "256": {
+      "size": 1,
+      "entities": [
+        "Zanu"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "257": {
+      "size": 1,
+      "entities": [
+        "Ahmedabad"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "258": {
+      "size": 1,
+      "entities": [
+        "November 1935"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "259": {
+      "size": 1,
+      "entities": [
+        "Chakwara"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "260": {
+      "size": 1,
+      "entities": [
+        "Jaipur State"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "261": {
+      "size": 1,
+      "entities": [
+        "about the 1st of April 1936"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "262": {
+      "size": 1,
+      "entities": [
+        "Mill"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "263": {
+      "size": 1,
+      "entities": [
+        "the Social Reform Party"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "264": {
+      "size": 1,
+      "entities": [
+        "The Social Conference"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "265": {
+      "size": 1,
+      "entities": [
+        "Hindu Family"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "266": {
+      "size": 1,
+      "entities": [
+        "the Political Reform Party"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "267": {
+      "size": 1,
+      "entities": [
+        "Ferdinand Lassalle"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "268": {
+      "size": 1,
+      "entities": [
+        "Karl Marx"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "269": {
+      "size": 1,
+      "entities": [
+        "Prussian"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "270": {
+      "size": 1,
+      "entities": [
+        "1862"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "271": {
+      "size": 1,
+      "entities": [
+        "Lassalle"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "272": {
+      "size": 1,
+      "entities": [
+        "Prussia"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "273": {
+      "size": 1,
+      "entities": [
+        "the Communal Award"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "274": {
+      "size": 1,
+      "entities": [
+        "The Communal Award"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "275": {
+      "size": 1,
+      "entities": [
+        "Ireland"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "276": {
+      "size": 1,
+      "entities": [
+        "Irish Home Rule"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "277": {
+      "size": 1,
+      "entities": [
+        "Ulster"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "278": {
+      "size": 1,
+      "entities": [
+        "Southern Ireland"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "279": {
+      "size": 1,
+      "entities": [
+        "Redmond"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "280": {
+      "size": 1,
+      "entities": [
+        "Ulstermen"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "281": {
+      "size": 1,
+      "entities": [
+        "Ulster to Irish Home Rule"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "282": {
+      "size": 1,
+      "entities": [
+        "Catholics"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "283": {
+      "size": 1,
+      "entities": [
+        "Protestants"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "284": {
+      "size": 1,
+      "entities": [
+        "Imperialist"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "285": {
+      "size": 1,
+      "entities": [
+        "Rome"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "286": {
+      "size": 1,
+      "entities": [
+        "the Republican Constitution of Rome"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "287": {
+      "size": 1,
+      "entities": [
+        "Kingly"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "288": {
+      "size": 1,
+      "entities": [
+        "Imperium"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "289": {
+      "size": 1,
+      "entities": [
+        "This Republican Constitution"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "290": {
+      "size": 1,
+      "entities": [
+        "Patrician"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "291": {
+      "size": 1,
+      "entities": [
+        "Plebian"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "292": {
+      "size": 2,
+      "entities": [
+        "Plebians",
+        "Consul"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "293": {
+      "size": 1,
+      "entities": [
+        "Patricians"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "294": {
+      "size": 1,
+      "entities": [
+        "the Constitution of Republican Rome"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "295": {
+      "size": 1,
+      "entities": [
+        "Reformation"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "296": {
+      "size": 1,
+      "entities": [
+        "Luther"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "297": {
+      "size": 1,
+      "entities": [
+        "England Puritanism"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "298": {
+      "size": 1,
+      "entities": [
+        "Puritanism"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "299": {
+      "size": 1,
+      "entities": [
+        "the Muslim Empire"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "300": {
+      "size": 1,
+      "entities": [
+        "Arabs"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "301": {
+      "size": 1,
+      "entities": [
+        "Prophet Mohammad"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "302": {
+      "size": 1,
+      "entities": [
+        "Chandragupta"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "303": {
+      "size": 1,
+      "entities": [
+        "Buddha"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "304": {
+      "size": 1,
+      "entities": [
+        "Sikhs"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "305": {
+      "size": 1,
+      "entities": [
+        "Guru Nanak"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "306": {
+      "size": 1,
+      "entities": [
+        "Socialists"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "307": {
+      "size": 1,
+      "entities": [
+        "Europe"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "308": {
+      "size": 1,
+      "entities": [
+        "Mahatmas"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "309": {
+      "size": 1,
+      "entities": [
+        "Sadhus"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "310": {
+      "size": 1,
+      "entities": [
+        "Fakirs"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "311": {
+      "size": 1,
+      "entities": [
+        "Mecca"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "312": {
+      "size": 1,
+      "entities": [
+        "the Commitia Centuriata"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "313": {
+      "size": 1,
+      "entities": [
+        "the Patrician Consuls"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "314": {
+      "size": 1,
+      "entities": [
+        "the Republican Constitution of Rome one"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "315": {
+      "size": 1,
+      "entities": [
+        "Plebian Consul"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "316": {
+      "size": 1,
+      "entities": [
+        "Roman"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "317": {
+      "size": 1,
+      "entities": [
+        "Delphi"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "318": {
+      "size": 1,
+      "entities": [
+        "Goddess"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "319": {
+      "size": 1,
+      "entities": [
+        "Oracle"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "320": {
+      "size": 1,
+      "entities": [
+        "Patric"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "321": {
+      "size": 1,
+      "entities": [
+        "European Society"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "322": {
+      "size": 1,
+      "entities": [
+        "Economic Interpretation of History"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "323": {
+      "size": 1,
+      "entities": [
+        "Socialist"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "324": {
+      "size": 1,
+      "entities": [
+        "a few days ago"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "325": {
+      "size": 1,
+      "entities": [
+        "Socialism"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "326": {
+      "size": 1,
+      "entities": [
+        "Caste System"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "327": {
+      "size": 1,
+      "entities": [
+        "D. R. Bhandarkar"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "328": {
+      "size": 1,
+      "entities": [
+        "Marathas"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "329": {
+      "size": 1,
+      "entities": [
+        "the Hindu Population"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "330": {
+      "size": 1,
+      "entities": [
+        "The Caste system"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "331": {
+      "size": 1,
+      "entities": [
+        "D. R. Bhandark"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "332": {
+      "size": 1,
+      "entities": [
+        "Madras"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "333": {
+      "size": 1,
+      "entities": [
+        "Bengal"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "334": {
+      "size": 1,
+      "entities": [
+        "the Brahmin of the Punjab"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "335": {
+      "size": 1,
+      "entities": [
+        "the Chamar of the Punjab"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "336": {
+      "size": 1,
+      "entities": [
+        "The Brahmin of the"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "337": {
+      "size": 1,
+      "entities": [
+        "Batcson"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "338": {
+      "size": 1,
+      "entities": [
+        "Mendel’s Principles of Heredity"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "339": {
+      "size": 1,
+      "entities": [
+        "VI Caste"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "340": {
+      "size": 1,
+      "entities": [
+        "Mohammedan"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "341": {
+      "size": 1,
+      "entities": [
+        "The Caste System"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "342": {
+      "size": 1,
+      "entities": [
+        "Germans"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "343": {
+      "size": 1,
+      "entities": [
+        "Sahyadrikhand"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "344": {
+      "size": 1,
+      "entities": [
+        "Golak Brahmins"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "345": {
+      "size": 1,
+      "entities": [
+        "Deorukha Brahmins"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "346": {
+      "size": 1,
+      "entities": [
+        "Karada Brahmins"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "347": {
+      "size": 1,
+      "entities": [
+        "Palshe Brahmins"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "348": {
+      "size": 1,
+      "entities": [
+        "Chitpavan Brahmins"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "349": {
+      "size": 1,
+      "entities": [
+        "Kar"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "350": {
+      "size": 1,
+      "entities": [
+        "ada Brahmins"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "351": {
+      "size": 1,
+      "entities": [
+        "non-Brahmins"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "352": {
+      "size": 1,
+      "entities": [
+        "the Cromwellian War"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "353": {
+      "size": 1,
+      "entities": [
+        "Kayasthas"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "354": {
+      "size": 1,
+      "entities": [
+        "Caste Consciousness"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "355": {
+      "size": 1,
+      "entities": [
+        "Constitution"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "356": {
+      "size": 1,
+      "entities": [
+        "State"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "357": {
+      "size": 1,
+      "entities": [
+        "thousands of years old"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "358": {
+      "size": 1,
+      "entities": [
+        "Christian"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "359": {
+      "size": 1,
+      "entities": [
+        "Anaryas of the Vedic days"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "360": {
+      "size": 1,
+      "entities": [
+        "non-Hindus"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "361": {
+      "size": 1,
+      "entities": [
+        "Hinduism"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "362": {
+      "size": 1,
+      "entities": [
+        "the Pathare Prabhus"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "363": {
+      "size": 1,
+      "entities": [
+        "Daivadnya Brahmins"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "364": {
+      "size": 1,
+      "entities": [
+        "the Councils of the East India Company’s"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "365": {
+      "size": 1,
+      "entities": [
+        "Peshwas"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "366": {
+      "size": 1,
+      "entities": [
+        "Christianity"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "367": {
+      "size": 1,
+      "entities": [
+        "System"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "368": {
+      "size": 1,
+      "entities": [
+        "Shudhi"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "369": {
+      "size": 1,
+      "entities": [
+        "XI"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "370": {
+      "size": 1,
+      "entities": [
+        "Sanghatan"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "371": {
+      "size": 1,
+      "entities": [
+        "Sikh"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "372": {
+      "size": 1,
+      "entities": [
+        "Muslim"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "373": {
+      "size": 1,
+      "entities": [
+        "Muslims"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "374": {
+      "size": 1,
+      "entities": [
+        "Bhais"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "375": {
+      "size": 1,
+      "entities": [
+        "Bhai"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "376": {
+      "size": 1,
+      "entities": [
+        "Khalsa"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "377": {
+      "size": 1,
+      "entities": [
+        "Sava Lakh"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "378": {
+      "size": 1,
+      "entities": [
+        "meek"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "379": {
+      "size": 1,
+      "entities": [
+        "Morris"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "380": {
+      "size": 1,
+      "entities": [
+        "XII"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "381": {
+      "size": 1,
+      "entities": [
+        "Kayastha"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "382": {
+      "size": 1,
+      "entities": [
+        "XIV"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "383": {
+      "size": 1,
+      "entities": [
+        "Liberty"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "384": {
+      "size": 1,
+      "entities": [
+        "58"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "385": {
+      "size": 1,
+      "entities": [
+        "XV"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "386": {
+      "size": 1,
+      "entities": [
+        "the Arya Samajists"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "387": {
+      "size": 1,
+      "entities": [
+        "Chaturvarnya"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "388": {
+      "size": 1,
+      "entities": [
+        "ANNI"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "389": {
+      "size": 1,
+      "entities": [
+        "Arya Samajists"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "390": {
+      "size": 1,
+      "entities": [
+        "varnya"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "391": {
+      "size": 1,
+      "entities": [
+        "udra"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "392": {
+      "size": 1,
+      "entities": [
+        "Brahmin, Kshatriya"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "393": {
+      "size": 1,
+      "entities": [
+        "the Brahmin, Kshatriya"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "394": {
+      "size": 1,
+      "entities": [
+        "Varna"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "395": {
+      "size": 1,
+      "entities": [
+        "Platonic"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "396": {
+      "size": 1,
+      "entities": [
+        "Plato"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "397": {
+      "size": 1,
+      "entities": [
+        "Plato’s Republic"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "398": {
+      "size": 2,
+      "entities": [
+        "Shambuka",
+        "Rama"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "399": {
+      "size": 1,
+      "entities": [
+        "Ram Raj"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "400": {
+      "size": 1,
+      "entities": [
+        "Manu-Smriti"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "401": {
+      "size": 1,
+      "entities": [
+        "the twentieth century"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "402": {
+      "size": 1,
+      "entities": [
+        "XVII"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "403": {
+      "size": 1,
+      "entities": [
+        "Vaishyas"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "404": {
+      "size": 1,
+      "entities": [
+        "Shudras"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "405": {
+      "size": 1,
+      "entities": [
+        "Tryavarnikas"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "406": {
+      "size": 1,
+      "entities": [
+        "the Laws 63"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "407": {
+      "size": 1,
+      "entities": [
+        "the Laws of Manu"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "408": {
+      "size": 1,
+      "entities": [
+        "the Mourya Empire"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "409": {
+      "size": 1,
+      "entities": [
+        "XVIII Chaturvarnya"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "410": {
+      "size": 1,
+      "entities": [
+        "Mahabharata"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "411": {
+      "size": 1,
+      "entities": [
+        "Puranas"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "412": {
+      "size": 1,
+      "entities": [
+        "Bhagwat"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "413": {
+      "size": 2,
+      "entities": [
+        "Krishna",
+        "Avtar"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "414": {
+      "size": 1,
+      "entities": [
+        "Asia"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "415": {
+      "size": 1,
+      "entities": [
+        "Non-Hindus"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "416": {
+      "size": 1,
+      "entities": [
+        "Carlyle"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "417": {
+      "size": 1,
+      "entities": [
+        "Shiya"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "418": {
+      "size": 1,
+      "entities": [
+        "Sunni"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "419": {
+      "size": 1,
+      "entities": [
+        "Sheikh"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "420": {
+      "size": 1,
+      "entities": [
+        "Saiyad"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "421": {
+      "size": 1,
+      "entities": [
+        "Khatik"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "422": {
+      "size": 1,
+      "entities": [
+        "Pinjari"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "423": {
+      "size": 1,
+      "entities": [
+        "Mazbi"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "424": {
+      "size": 1,
+      "entities": [
+        "Ramdasi"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "426": {
+      "size": 1,
+      "entities": [
+        "S. Radhakrishnan"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "427": {
+      "size": 1,
+      "entities": [
+        "four thousand years"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "428": {
+      "size": 1,
+      "entities": [
+        "the present day"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "429": {
+      "size": 1,
+      "entities": [
+        "History"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "430": {
+      "size": 1,
+      "entities": [
+        "Radhakrishnan"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "431": {
+      "size": 1,
+      "entities": [
+        "XX"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "432": {
+      "size": 1,
+      "entities": [
+        "The Brahmins of Northern"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "433": {
+      "size": 1,
+      "entities": [
+        "Deccan"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "434": {
+      "size": 1,
+      "entities": [
+        "Southern India"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "435": {
+      "size": 1,
+      "entities": [
+        "Northern India"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "436": {
+      "size": 1,
+      "entities": [
+        "the Brahmins of Kashmir"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "437": {
+      "size": 1,
+      "entities": [
+        "Kashmir"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "438": {
+      "size": 1,
+      "entities": [
+        "Gujaratis"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "439": {
+      "size": 1,
+      "entities": [
+        "Marwaris"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "440": {
+      "size": 1,
+      "entities": [
+        "Banias"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "441": {
+      "size": 1,
+      "entities": [
+        "Jains"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "442": {
+      "size": 1,
+      "entities": [
+        "the Kayasthas of Northern India"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "443": {
+      "size": 1,
+      "entities": [
+        "Non-Brahmins of Southern India"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "444": {
+      "size": 1,
+      "entities": [
+        "the Non-Brahmins"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "445": {
+      "size": 1,
+      "entities": [
+        "Dravid"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "446": {
+      "size": 1,
+      "entities": [
+        "the Brahmins of"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "447": {
+      "size": 1,
+      "entities": [
+        "astras"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "448": {
+      "size": 1,
+      "entities": [
+        "ag"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "449": {
+      "size": 1,
+      "entities": [
+        "Nanak"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "450": {
+      "size": 1,
+      "entities": [
+        "kith"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "451": {
+      "size": 1,
+      "entities": [
+        "Dicey"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "452": {
+      "size": 1,
+      "entities": [
+        "English Constitution"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "453": {
+      "size": 1,
+      "entities": [
+        "Parliament"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "454": {
+      "size": 1,
+      "entities": [
+        "Sultan"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "455": {
+      "size": 1,
+      "entities": [
+        "Mohammedanism"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "456": {
+      "size": 1,
+      "entities": [
+        "Mohammed"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "457": {
+      "size": 1,
+      "entities": [
+        "the Brahmins of India"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "458": {
+      "size": 1,
+      "entities": [
+        "the British Parliament"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "459": {
+      "size": 1,
+      "entities": [
+        "Leslie Stephen"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "460": {
+      "size": 1,
+      "entities": [
+        "czkã.k A"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "461": {
+      "size": 1,
+      "entities": [
+        "Dharma"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "462": {
+      "size": 1,
+      "entities": [
+        "Shishthas"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "463": {
+      "size": 1,
+      "entities": [
+        "vukEukrs\"kq /esZ\"kq dFka L;kfnfr"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "464": {
+      "size": 1,
+      "entities": [
+        "Ashta"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "465": {
+      "size": 1,
+      "entities": [
+        "Sanskaras"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "466": {
+      "size": 1,
+      "entities": [
+        "XXII"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "467": {
+      "size": 1,
+      "entities": [
+        "LoL"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "468": {
+      "size": 1,
+      "entities": [
+        "Smriti"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "469": {
+      "size": 1,
+      "entities": [
+        "Sadachar"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "470": {
+      "size": 1,
+      "entities": [
+        "ks¿oeU;sr"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "471": {
+      "size": 1,
+      "entities": [
+        "ukfLrdks"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "472": {
+      "size": 1,
+      "entities": [
+        "Jqfr}S"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "473": {
+      "size": 1,
+      "entities": [
+        "/ekZoqHkkS Le`rkS"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "474": {
+      "size": 1,
+      "entities": [
+        "Shruti"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "475": {
+      "size": 1,
+      "entities": [
+        "Shloka"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "476": {
+      "size": 1,
+      "entities": [
+        "k'p dk'p"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "477": {
+      "size": 1,
+      "entities": [
+        "AA Again"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "478": {
+      "size": 1,
+      "entities": [
+        "Brihaspati"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "479": {
+      "size": 1,
+      "entities": [
+        "osnk;Roksifuca/`Ror~ izek.;a fg euks%"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "480": {
+      "size": 1,
+      "entities": [
+        "Le`ra"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "481": {
+      "size": 1,
+      "entities": [
+        "g r% Le`rk% AA Again"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "482": {
+      "size": 1,
+      "entities": [
+        "osnk;Roksifuca/`Ror~ izek.;a fg"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "483": {
+      "size": 1,
+      "entities": [
+        "kL;rs AA"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "484": {
+      "size": 1,
+      "entities": [
+        "Shrutis"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "485": {
+      "size": 1,
+      "entities": [
+        "Mahabharat"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "486": {
+      "size": 1,
+      "entities": [
+        "pRokfj"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "487": {
+      "size": 1,
+      "entities": [
+        "kuoks /eZ% lkaxks osnf"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "488": {
+      "size": 1,
+      "entities": [
+        "Üpfdf"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "489": {
+      "size": 1,
+      "entities": [
+        "Railway"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "490": {
+      "size": 1,
+      "entities": [
+        "Caste and Untouchability"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "491": {
+      "size": 1,
+      "entities": [
+        "Ramanuja"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "492": {
+      "size": 1,
+      "entities": [
+        "Kabir"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "493": {
+      "size": 1,
+      "entities": [
+        "|íkp;Zrs"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "494": {
+      "size": 1,
+      "entities": [
+        "su /E;±"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "495": {
+      "size": 1,
+      "entities": [
+        "kQekxr%"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "496": {
+      "size": 1,
+      "entities": [
+        "losZ\"kka l"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "497": {
+      "size": 1,
+      "entities": [
+        "AA Sadachar"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "498": {
+      "size": 1,
+      "entities": [
+        "the Religion of the Shrutis and the Smritis"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "499": {
+      "size": 1,
+      "entities": [
+        "the Hindu Religion"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "500": {
+      "size": 1,
+      "entities": [
+        "Jaimini"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "501": {
+      "size": 1,
+      "entities": [
+        "Purva"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "502": {
+      "size": 1,
+      "entities": [
+        "yesterday"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "503": {
+      "size": 1,
+      "entities": [
+        "this Law as Religion"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "504": {
+      "size": 1,
+      "entities": [
+        "a Religion of Rules"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "505": {
+      "size": 1,
+      "entities": [
+        "Burke"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "506": {
+      "size": 1,
+      "entities": [
+        "Civil Government"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "507": {
+      "size": 1,
+      "entities": [
+        "Principles"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "508": {
+      "size": 1,
+      "entities": [
+        "Civil"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "509": {
+      "size": 1,
+      "entities": [
+        "I.C.S."
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "510": {
+      "size": 1,
+      "entities": [
+        "syphilis"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "511": {
+      "size": 1,
+      "entities": [
+        "any quarter"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "512": {
+      "size": 1,
+      "entities": [
+        "Upanishads"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "513": {
+      "size": 1,
+      "entities": [
+        "Prof. Carver"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "514": {
+      "size": 1,
+      "entities": [
+        "John Dewey"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "515": {
+      "size": 1,
+      "entities": [
+        "the French Revolution"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "516": {
+      "size": 1,
+      "entities": [
+        "Dewey"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "517": {
+      "size": 1,
+      "entities": [
+        "Swaraj"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "518": {
+      "size": 1,
+      "entities": [
+        "MAHATMA GANDHI"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "519": {
+      "size": 1,
+      "entities": [
+        "Articles"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "520": {
+      "size": 1,
+      "entities": [
+        "last May"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "521": {
+      "size": 1,
+      "entities": [
+        "Reception Committee"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "522": {
+      "size": 1,
+      "entities": [
+        "Savarna Hindus"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "523": {
+      "size": 1,
+      "entities": [
+        "Rao Bahadur M. C. Rajah"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "524": {
+      "size": 1,
+      "entities": [
+        "Harijans"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "525": {
+      "size": 1,
+      "entities": [
+        "God"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "526": {
+      "size": 1,
+      "entities": [
+        "July 11, 1936"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "527": {
+      "size": 1,
+      "entities": [
+        "Ramayana"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "528": {
+      "size": 1,
+      "entities": [
+        "the Hindu Scriptures"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "529": {
+      "size": 1,
+      "entities": [
+        "Ashrama"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "530": {
+      "size": 1,
+      "entities": [
+        "Segaon"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "531": {
+      "size": 1,
+      "entities": [
+        "Ahimsa"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "532": {
+      "size": 1,
+      "entities": [
+        "nearly half a century"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "533": {
+      "size": 1,
+      "entities": [
+        "Chaitanya, Jnyandeo, Tukaram, Tiruvalluvar, Ramkrishna Paramahansa"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "534": {
+      "size": 1,
+      "entities": [
+        "Mohan Roy"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "535": {
+      "size": 1,
+      "entities": [
+        "Maharshi Devendranath Tagore"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "536": {
+      "size": 1,
+      "entities": [
+        "Vivekanand"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "537": {
+      "size": 1,
+      "entities": [
+        "July 18, 1936"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "538": {
+      "size": 1,
+      "entities": [
+        "Todak Mandal"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "539": {
+      "size": 1,
+      "entities": [
+        "CASTE Shri Sant Ramji"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "540": {
+      "size": 1,
+      "entities": [
+        "Doctorate"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "541": {
+      "size": 1,
+      "entities": [
+        "non-Hindu"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "542": {
+      "size": 1,
+      "entities": [
+        "Varnavyavastha"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "543": {
+      "size": 1,
+      "entities": [
+        "Shri Sant Ram"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "544": {
+      "size": 1,
+      "entities": [
+        "Quran"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "545": {
+      "size": 1,
+      "entities": [
+        "Bible"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "546": {
+      "size": 1,
+      "entities": [
+        "August 15, 1936"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "547": {
+      "size": 1,
+      "entities": [
+        "MAHATMA"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "548": {
+      "size": 1,
+      "entities": [
+        "the Jat Pat Todak Mandal"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "549": {
+      "size": 1,
+      "entities": [
+        "atma"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "550": {
+      "size": 1,
+      "entities": [
+        "Varnavyav"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "551": {
+      "size": 1,
+      "entities": [
+        "astha"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "552": {
+      "size": 1,
+      "entities": [
+        "CASTE Caste"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "553": {
+      "size": 1,
+      "entities": [
+        "Chatur"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "554": {
+      "size": 1,
+      "entities": [
+        "Shast"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "555": {
+      "size": 1,
+      "entities": [
+        "Untouchability"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "556": {
+      "size": 1,
+      "entities": [
+        "Jnyandeo"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "557": {
+      "size": 1,
+      "entities": [
+        "Paithan"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "558": {
+      "size": 1,
+      "entities": [
+        "Eknath"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "559": {
+      "size": 1,
+      "entities": [
+        "Dharmatma"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "560": {
+      "size": 1,
+      "entities": [
+        "vaR;tkpk"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "561": {
+      "size": 1,
+      "entities": [
+        "foVkG"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "562": {
+      "size": 1,
+      "entities": [
+        "Hkkxor"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "563": {
+      "size": 1,
+      "entities": [
+        "ras"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "564": {
+      "size": 1,
+      "entities": [
+        "Samaritan"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "565": {
+      "size": 1,
+      "entities": [
+        "Chaitanya"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "566": {
+      "size": 1,
+      "entities": [
+        "Jnyandeo, Tukaram,"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "567": {
+      "size": 1,
+      "entities": [
+        "Chaitanya, Jnyandeo, Tukaram, Tiruvalluvar,"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "568": {
+      "size": 1,
+      "entities": [
+        "Paramahansa"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "569": {
+      "size": 1,
+      "entities": [
+        "Morality"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "570": {
+      "size": 1,
+      "entities": [
+        "the Social Structure"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "571": {
+      "size": 1,
+      "entities": [
+        "H. N. Brailsford"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "572": {
+      "size": 1,
+      "entities": [
+        "April 1936"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "573": {
+      "size": 1,
+      "entities": [
+        "Vishnu"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "574": {
+      "size": 1,
+      "entities": [
+        "Love"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "575": {
+      "size": 1,
+      "entities": [
+        "Shankar"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "576": {
+      "size": 1,
+      "entities": [
+        "Buddha Gaya"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "577": {
+      "size": 1,
+      "entities": [
+        "Shank"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "578": {
+      "size": 1,
+      "entities": [
+        "Kali"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "579": {
+      "size": 1,
+      "entities": [
+        "the Temple of Parshuram"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "580": {
+      "size": 1,
+      "entities": [
+        "Avatar"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "581": {
+      "size": 1,
+      "entities": [
+        "Bramha"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "582": {
+      "size": 1,
+      "entities": [
+        "Goddesses"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "583": {
+      "size": 1,
+      "entities": [
+        "catholic"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "584": {
+      "size": 1,
+      "entities": [
+        "Years ago"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "585": {
+      "size": 1,
+      "entities": [
+        "Caste versus Class"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "586": {
+      "size": 1,
+      "entities": [
+        "Sanatani Hindu"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "587": {
+      "size": 1,
+      "entities": [
+        "Vedic"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "588": {
+      "size": 1,
+      "entities": [
+        "Swami Dayanand Saraswati"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "589": {
+      "size": 1,
+      "entities": [
+        "arna"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "590": {
+      "size": 1,
+      "entities": [
+        "the Vedic Varnavyavastha"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "591": {
+      "size": 1,
+      "entities": [
+        "Swami Dayanand"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "592": {
+      "size": 1,
+      "entities": [
+        "the Varna System"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "593": {
+      "size": 1,
+      "entities": [
+        "Ambedkar’s Indictment"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "594": {
+      "size": 1,
+      "entities": [
+        "Whom"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "595": {
+      "size": 1,
+      "entities": [
+        "Politician"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "596": {
+      "size": 1,
+      "entities": [
+        "Politics"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "597": {
+      "size": 1,
+      "entities": [
+        "XI Hindu"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "598": {
+      "size": 1,
+      "entities": [
+        "the days"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "69": {
+      "size": 1,
+      "entities": [
+        "Balfour"
+      ],
+      "summary": null,
+      "embedding_index": null
+    },
+    "425": {
+      "size": 1,
+      "entities": [
+        "Mathew Arnold"
+      ],
+      "summary": null,
+      "embedding_index": null
+    }
+  }
+}

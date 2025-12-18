@@ -1,0 +1,1106 @@
+[
+  {
+    "subject": "Brahmins",
+    "relation": "create",
+    "object": "Caste",
+    "chunk_id": 68,
+    "subchunk_id": 0,
+    "pages": [
+      14
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "permit",
+    "object": "Hindu",
+    "chunk_id": 216,
+    "subchunk_id": 0,
+    "pages": [
+      35
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "permit",
+    "object": "Hindu",
+    "chunk_id": 217,
+    "subchunk_id": 0,
+    "pages": [
+      35
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "permit",
+    "object": "Hindu",
+    "chunk_id": 217,
+    "subchunk_id": 1,
+    "pages": [
+      35
+    ]
+  },
+  {
+    "subject": "Antyaja",
+    "relation": "be",
+    "object": "Guru",
+    "chunk_id": 217,
+    "subchunk_id": 1,
+    "pages": [
+      35
+    ]
+  },
+  {
+    "subject": "Antyaja",
+    "relation": "be",
+    "object": "Guru",
+    "chunk_id": 217,
+    "subchunk_id": 2,
+    "pages": [
+      35
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "permit",
+    "object": "Hindu",
+    "chunk_id": 217,
+    "subchunk_id": 2,
+    "pages": [
+      35
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "permit",
+    "object": "Hindu",
+    "chunk_id": 217,
+    "subchunk_id": 3,
+    "pages": [
+      35
+    ]
+  },
+  {
+    "subject": "Antyaja",
+    "relation": "be",
+    "object": "Guru",
+    "chunk_id": 217,
+    "subchunk_id": 3,
+    "pages": [
+      35
+    ]
+  },
+  {
+    "subject": "Antyaja",
+    "relation": "be",
+    "object": "Guru",
+    "chunk_id": 217,
+    "subchunk_id": 4,
+    "pages": [
+      35
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "permit",
+    "object": "Hindu",
+    "chunk_id": 217,
+    "subchunk_id": 4,
+    "pages": [
+      35
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "permit",
+    "object": "Hindu",
+    "chunk_id": 217,
+    "subchunk_id": 5,
+    "pages": [
+      35
+    ]
+  },
+  {
+    "subject": "Antyaja",
+    "relation": "be",
+    "object": "Guru",
+    "chunk_id": 217,
+    "subchunk_id": 5,
+    "pages": [
+      35
+    ]
+  },
+  {
+    "subject": "Antyaja",
+    "relation": "be",
+    "object": "Guru",
+    "chunk_id": 217,
+    "subchunk_id": 6,
+    "pages": [
+      35
+    ]
+  },
+  {
+    "subject": "Antyaja",
+    "relation": "be",
+    "object": "Guru",
+    "chunk_id": 217,
+    "subchunk_id": 8,
+    "pages": [
+      35
+    ]
+  },
+  {
+    "subject": "Antyaja",
+    "relation": "be",
+    "object": "Guru",
+    "chunk_id": 217,
+    "subchunk_id": 9,
+    "pages": [
+      35
+    ]
+  },
+  {
+    "subject": "Antyaja",
+    "relation": "be",
+    "object": "Guru",
+    "chunk_id": 217,
+    "subchunk_id": 11,
+    "pages": [
+      35
+    ]
+  },
+  {
+    "subject": "Congress",
+    "relation": "support",
+    "object": "Conference",
+    "chunk_id": 225,
+    "subchunk_id": 10,
+    "pages": [
+      36
+    ]
+  },
+  {
+    "subject": "Congress",
+    "relation": "support",
+    "object": "Conference",
+    "chunk_id": 225,
+    "subchunk_id": 11,
+    "pages": [
+      36
+    ]
+  },
+  {
+    "subject": "Congress",
+    "relation": "support",
+    "object": "Conference",
+    "chunk_id": 225,
+    "subchunk_id": 12,
+    "pages": [
+      36
+    ]
+  },
+  {
+    "subject": "Congress",
+    "relation": "support",
+    "object": "Conference",
+    "chunk_id": 225,
+    "subchunk_id": 13,
+    "pages": [
+      36
+    ]
+  },
+  {
+    "subject": "Plebians",
+    "relation": "get",
+    "object": "Consul",
+    "chunk_id": 287,
+    "subchunk_id": 0,
+    "pages": [
+      42,
+      43
+    ]
+  },
+  {
+    "subject": "Plebians",
+    "relation": "get",
+    "object": "Consul",
+    "chunk_id": 288,
+    "subchunk_id": 0,
+    "pages": [
+      43
+    ]
+  },
+  {
+    "subject": "Plebians",
+    "relation": "get",
+    "object": "Consul",
+    "chunk_id": 288,
+    "subchunk_id": 2,
+    "pages": [
+      43
+    ]
+  },
+  {
+    "subject": "Plebians",
+    "relation": "get",
+    "object": "Consul",
+    "chunk_id": 288,
+    "subchunk_id": 3,
+    "pages": [
+      43
+    ]
+  },
+  {
+    "subject": "Plebians",
+    "relation": "get",
+    "object": "Consul",
+    "chunk_id": 288,
+    "subchunk_id": 4,
+    "pages": [
+      43
+    ]
+  },
+  {
+    "subject": "Plebians",
+    "relation": "get",
+    "object": "Consul",
+    "chunk_id": 288,
+    "subchunk_id": 5,
+    "pages": [
+      43
+    ]
+  },
+  {
+    "subject": "Plebians",
+    "relation": "get",
+    "object": "Consul",
+    "chunk_id": 288,
+    "subchunk_id": 6,
+    "pages": [
+      43
+    ]
+  },
+  {
+    "subject": "Plebians",
+    "relation": "get",
+    "object": "Consul",
+    "chunk_id": 288,
+    "subchunk_id": 7,
+    "pages": [
+      43
+    ]
+  },
+  {
+    "subject": "Plebians",
+    "relation": "elect",
+    "object": "Consul",
+    "chunk_id": 288,
+    "subchunk_id": 10,
+    "pages": [
+      43
+    ]
+  },
+  {
+    "subject": "Plebians",
+    "relation": "elect",
+    "object": "Consul",
+    "chunk_id": 288,
+    "subchunk_id": 11,
+    "pages": [
+      43
+    ]
+  },
+  {
+    "subject": "Plebians",
+    "relation": "elect",
+    "object": "Consul",
+    "chunk_id": 288,
+    "subchunk_id": 12,
+    "pages": [
+      43
+    ]
+  },
+  {
+    "subject": "Plebians",
+    "relation": "elect",
+    "object": "Consul",
+    "chunk_id": 288,
+    "subchunk_id": 13,
+    "pages": [
+      43
+    ]
+  },
+  {
+    "subject": "Plebians",
+    "relation": "elect",
+    "object": "Consul",
+    "chunk_id": 288,
+    "subchunk_id": 14,
+    "pages": [
+      43
+    ]
+  },
+  {
+    "subject": "Plebians",
+    "relation": "elect",
+    "object": "Consul",
+    "chunk_id": 288,
+    "subchunk_id": 15,
+    "pages": [
+      43
+    ]
+  },
+  {
+    "subject": "Plebians",
+    "relation": "elect",
+    "object": "Consul",
+    "chunk_id": 288,
+    "subchunk_id": 16,
+    "pages": [
+      43
+    ]
+  },
+  {
+    "subject": "Plebians",
+    "relation": "elect",
+    "object": "Consul",
+    "chunk_id": 288,
+    "subchunk_id": 17,
+    "pages": [
+      43
+    ]
+  },
+  {
+    "subject": "Plebians",
+    "relation": "elect",
+    "object": "Consul",
+    "chunk_id": 288,
+    "subchunk_id": 19,
+    "pages": [
+      43
+    ]
+  },
+  {
+    "subject": "Plebians",
+    "relation": "elect",
+    "object": "Consul",
+    "chunk_id": 288,
+    "subchunk_id": 20,
+    "pages": [
+      43
+    ]
+  },
+  {
+    "subject": "Sonars",
+    "relation": "style",
+    "object": "Brahmins",
+    "chunk_id": 344,
+    "subchunk_id": 0,
+    "pages": [
+      51
+    ]
+  },
+  {
+    "subject": "Sonars",
+    "relation": "style",
+    "object": "Brahmins",
+    "chunk_id": 345,
+    "subchunk_id": 0,
+    "pages": [
+      51
+    ]
+  },
+  {
+    "subject": "Hindus",
+    "relation": "criticise",
+    "object": "Mohammedans",
+    "chunk_id": 347,
+    "subchunk_id": 0,
+    "pages": [
+      52
+    ]
+  },
+  {
+    "subject": "Hindus",
+    "relation": "criticise",
+    "object": "Mohammedans",
+    "chunk_id": 348,
+    "subchunk_id": 0,
+    "pages": [
+      52
+    ]
+  },
+  {
+    "subject": "Rama",
+    "relation": "kill",
+    "object": "Shambuka",
+    "chunk_id": 414,
+    "subchunk_id": 0,
+    "pages": [
+      59
+    ]
+  },
+  {
+    "subject": "Rama",
+    "relation": "kill",
+    "object": "Shambuka",
+    "chunk_id": 415,
+    "subchunk_id": 0,
+    "pages": [
+      59
+    ]
+  },
+  {
+    "subject": "Brahmin",
+    "relation": "flatter",
+    "object": "Kshatriya",
+    "chunk_id": 430,
+    "subchunk_id": 0,
+    "pages": [
+      60
+    ]
+  },
+  {
+    "subject": "Brahmin",
+    "relation": "flatter",
+    "object": "Kshatriya",
+    "chunk_id": 431,
+    "subchunk_id": 0,
+    "pages": [
+      60
+    ]
+  },
+  {
+    "subject": "Kshatriyas",
+    "relation": "annihilate",
+    "object": "Brahmins",
+    "chunk_id": 446,
+    "subchunk_id": 0,
+    "pages": [
+      61,
+      62
+    ]
+  },
+  {
+    "subject": "Kshatriyas",
+    "relation": "annihilate",
+    "object": "Brahmins",
+    "chunk_id": 447,
+    "subchunk_id": 0,
+    "pages": [
+      61,
+      62
+    ]
+  },
+  {
+    "subject": "Kshatriyas",
+    "relation": "annihilate",
+    "object": "Brahmins",
+    "chunk_id": 448,
+    "subchunk_id": 0,
+    "pages": [
+      62
+    ]
+  },
+  {
+    "subject": "Kshatriyas",
+    "relation": "annihilate",
+    "object": "Brahmins",
+    "chunk_id": 448,
+    "subchunk_id": 2,
+    "pages": [
+      62
+    ]
+  },
+  {
+    "subject": "Kshatriyas",
+    "relation": "annihilate",
+    "object": "Brahmins",
+    "chunk_id": 448,
+    "subchunk_id": 3,
+    "pages": [
+      62
+    ]
+  },
+  {
+    "subject": "Krishna",
+    "relation": "take",
+    "object": "Avtar",
+    "chunk_id": 448,
+    "subchunk_id": 4,
+    "pages": [
+      62
+    ]
+  },
+  {
+    "subject": "Krishna",
+    "relation": "take",
+    "object": "Avtar",
+    "chunk_id": 448,
+    "subchunk_id": 5,
+    "pages": [
+      62
+    ]
+  },
+  {
+    "subject": "Krishna",
+    "relation": "take",
+    "object": "Avtar",
+    "chunk_id": 448,
+    "subchunk_id": 7,
+    "pages": [
+      62
+    ]
+  },
+  {
+    "subject": "Krishna",
+    "relation": "take",
+    "object": "Avtar",
+    "chunk_id": 448,
+    "subchunk_id": 8,
+    "pages": [
+      62
+    ]
+  },
+  {
+    "subject": "Krishna",
+    "relation": "take",
+    "object": "Avtar",
+    "chunk_id": 448,
+    "subchunk_id": 10,
+    "pages": [
+      62
+    ]
+  },
+  {
+    "subject": "Krishna",
+    "relation": "take",
+    "object": "Avtar",
+    "chunk_id": 448,
+    "subchunk_id": 11,
+    "pages": [
+      62
+    ]
+  },
+  {
+    "subject": "Krishna",
+    "relation": "take",
+    "object": "Avtar",
+    "chunk_id": 448,
+    "subchunk_id": 13,
+    "pages": [
+      62
+    ]
+  },
+  {
+    "subject": "Krishna",
+    "relation": "take",
+    "object": "Avtar",
+    "chunk_id": 448,
+    "subchunk_id": 14,
+    "pages": [
+      62
+    ]
+  },
+  {
+    "subject": "Krishna",
+    "relation": "take",
+    "object": "Avtar",
+    "chunk_id": 448,
+    "subchunk_id": 16,
+    "pages": [
+      62
+    ]
+  },
+  {
+    "subject": "Krishna",
+    "relation": "take",
+    "object": "Avtar",
+    "chunk_id": 448,
+    "subchunk_id": 17,
+    "pages": [
+      62
+    ]
+  },
+  {
+    "subject": "Religion",
+    "relation": "compel",
+    "object": "Hindus",
+    "chunk_id": 466,
+    "subchunk_id": 0,
+    "pages": [
+      63,
+      64
+    ]
+  },
+  {
+    "subject": "Hindus",
+    "relation": "observe",
+    "object": "Caste",
+    "chunk_id": 490,
+    "subchunk_id": 0,
+    "pages": [
+      66
+    ]
+  },
+  {
+    "subject": "Hindus",
+    "relation": "observe",
+    "object": "Caste",
+    "chunk_id": 491,
+    "subchunk_id": 0,
+    "pages": [
+      66
+    ]
+  },
+  {
+    "subject": "Hindus",
+    "relation": "observe",
+    "object": "Caste",
+    "chunk_id": 492,
+    "subchunk_id": 0,
+    "pages": [
+      66
+    ]
+  },
+  {
+    "subject": "Brahmins",
+    "relation": "be",
+    "object": "Bhudevas",
+    "chunk_id": 524,
+    "subchunk_id": 11,
+    "pages": [
+      69
+    ]
+  },
+  {
+    "subject": "Brahmins",
+    "relation": "be",
+    "object": "Bhudevas",
+    "chunk_id": 524,
+    "subchunk_id": 12,
+    "pages": [
+      69
+    ]
+  },
+  {
+    "subject": "Brahmins",
+    "relation": "be",
+    "object": "Bhudevas",
+    "chunk_id": 524,
+    "subchunk_id": 13,
+    "pages": [
+      69
+    ]
+  },
+  {
+    "subject": "Brahmins",
+    "relation": "be",
+    "object": "Bhudevas",
+    "chunk_id": 524,
+    "subchunk_id": 14,
+    "pages": [
+      69
+    ]
+  },
+  {
+    "subject": "Brahmins",
+    "relation": "be",
+    "object": "Bhudevas",
+    "chunk_id": 524,
+    "subchunk_id": 15,
+    "pages": [
+      69
+    ]
+  },
+  {
+    "subject": "Brahmins",
+    "relation": "be",
+    "object": "Bhudevas",
+    "chunk_id": 525,
+    "subchunk_id": 0,
+    "pages": [
+      69,
+      70
+    ]
+  },
+  {
+    "subject": "Hindu",
+    "relation": "follow",
+    "object": "Veda",
+    "chunk_id": 534,
+    "subchunk_id": 0,
+    "pages": [
+      70
+    ]
+  },
+  {
+    "subject": "Hindu",
+    "relation": "follow",
+    "object": "Veda",
+    "chunk_id": 535,
+    "subchunk_id": 0,
+    "pages": [
+      70
+    ]
+  },
+  {
+    "subject": "Hindu",
+    "relation": "follow",
+    "object": "Veda",
+    "chunk_id": 536,
+    "subchunk_id": 0,
+    "pages": [
+      70
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "permit",
+    "object": "Hindu",
+    "chunk_id": 542,
+    "subchunk_id": 9,
+    "pages": [
+      71
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "permit",
+    "object": "Hindu",
+    "chunk_id": 542,
+    "subchunk_id": 10,
+    "pages": [
+      71
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "permit",
+    "object": "Hindu",
+    "chunk_id": 542,
+    "subchunk_id": 12,
+    "pages": [
+      71
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "permit",
+    "object": "Hindu",
+    "chunk_id": 542,
+    "subchunk_id": 13,
+    "pages": [
+      71
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "permit",
+    "object": "Hindu",
+    "chunk_id": 542,
+    "subchunk_id": 14,
+    "pages": [
+      71
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "permit",
+    "object": "Hindu",
+    "chunk_id": 542,
+    "subchunk_id": 15,
+    "pages": [
+      71
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "permit",
+    "object": "Hindu",
+    "chunk_id": 542,
+    "subchunk_id": 17,
+    "pages": [
+      71
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "permit",
+    "object": "Hindu",
+    "chunk_id": 542,
+    "subchunk_id": 18,
+    "pages": [
+      71
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "permit",
+    "object": "Hindu",
+    "chunk_id": 542,
+    "subchunk_id": 19,
+    "pages": [
+      71
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "permit",
+    "object": "Hindu",
+    "chunk_id": 542,
+    "subchunk_id": 20,
+    "pages": [
+      71
+    ]
+  },
+  {
+    "subject": "Smritis",
+    "relation": "command",
+    "object": "Hindus",
+    "chunk_id": 548,
+    "subchunk_id": 0,
+    "pages": [
+      72
+    ]
+  },
+  {
+    "subject": "Smritis",
+    "relation": "command",
+    "object": "Hindus",
+    "chunk_id": 549,
+    "subchunk_id": 0,
+    "pages": [
+      72
+    ]
+  },
+  {
+    "subject": "Religion",
+    "relation": "be",
+    "object": "Law",
+    "chunk_id": 570,
+    "subchunk_id": 0,
+    "pages": [
+      74
+    ]
+  },
+  {
+    "subject": "Religion",
+    "relation": "be",
+    "object": "Law",
+    "chunk_id": 571,
+    "subchunk_id": 0,
+    "pages": [
+      74
+    ]
+  },
+  {
+    "subject": "Religion",
+    "relation": "be",
+    "object": "Law",
+    "chunk_id": 572,
+    "subchunk_id": 0,
+    "pages": [
+      74,
+      75
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "support",
+    "object": "Caste",
+    "chunk_id": 671,
+    "subchunk_id": 0,
+    "pages": [
+      85
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "support",
+    "object": "Caste",
+    "chunk_id": 671,
+    "subchunk_id": 1,
+    "pages": [
+      85
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "support",
+    "object": "Caste",
+    "chunk_id": 671,
+    "subchunk_id": 2,
+    "pages": [
+      85
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "support",
+    "object": "Caste",
+    "chunk_id": 671,
+    "subchunk_id": 3,
+    "pages": [
+      85
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "support",
+    "object": "Caste",
+    "chunk_id": 671,
+    "subchunk_id": 4,
+    "pages": [
+      85
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "support",
+    "object": "Caste",
+    "chunk_id": 671,
+    "subchunk_id": 5,
+    "pages": [
+      85
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "support",
+    "object": "Caste",
+    "chunk_id": 671,
+    "subchunk_id": 7,
+    "pages": [
+      85
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "support",
+    "object": "Caste",
+    "chunk_id": 671,
+    "subchunk_id": 8,
+    "pages": [
+      85
+    ]
+  },
+  {
+    "subject": "Shastras",
+    "relation": "support",
+    "object": "Caste",
+    "chunk_id": 671,
+    "subchunk_id": 9,
+    "pages": [
+      85
+    ]
+  },
+  {
+    "subject": "Mahatma",
+    "relation": "be",
+    "object": "Bania",
+    "chunk_id": 695,
+    "subchunk_id": 0,
+    "pages": [
+      88
+    ]
+  },
+  {
+    "subject": "Mahatma",
+    "relation": "be",
+    "object": "Bania",
+    "chunk_id": 696,
+    "subchunk_id": 0,
+    "pages": [
+      88
+    ]
+  },
+  {
+    "subject": "Mahatma",
+    "relation": "support",
+    "object": "Caste",
+    "chunk_id": 723,
+    "subchunk_id": 9,
+    "pages": [
+      91,
+      92
+    ]
+  },
+  {
+    "subject": "Mahatma",
+    "relation": "support",
+    "object": "Caste",
+    "chunk_id": 723,
+    "subchunk_id": 10,
+    "pages": [
+      91,
+      92
+    ]
+  },
+  {
+    "subject": "Mahatma",
+    "relation": "support",
+    "object": "Caste",
+    "chunk_id": 723,
+    "subchunk_id": 11,
+    "pages": [
+      91,
+      92
+    ]
+  },
+  {
+    "subject": "Mahatma",
+    "relation": "support",
+    "object": "Caste",
+    "chunk_id": 723,
+    "subchunk_id": 12,
+    "pages": [
+      91,
+      92
+    ]
+  },
+  {
+    "subject": "Mahatma",
+    "relation": "support",
+    "object": "Caste",
+    "chunk_id": 723,
+    "subchunk_id": 13,
+    "pages": [
+      91,
+      92
+    ]
+  },
+  {
+    "subject": "Mahatma",
+    "relation": "support",
+    "object": "Caste",
+    "chunk_id": 723,
+    "subchunk_id": 14,
+    "pages": [
+      91,
+      92
+    ]
+  },
+  {
+    "subject": "Mahatma",
+    "relation": "support",
+    "object": "Caste",
+    "chunk_id": 723,
+    "subchunk_id": 15,
+    "pages": [
+      91,
+      92
+    ]
+  },
+  {
+    "subject": "Mahatma",
+    "relation": "support",
+    "object": "Caste",
+    "chunk_id": 723,
+    "subchunk_id": 16,
+    "pages": [
+      91,
+      92
+    ]
+  }
+]

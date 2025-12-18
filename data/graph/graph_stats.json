@@ -1,0 +1,50 @@
+{
+  "num_nodes": 617,
+  "num_edges": 4948,
+  "num_entities_raw": 13282,
+  "num_relations_raw": 109,
+  "graph_density": 0.013018585952135385,
+  "average_degree": 16.039,
+  "top_10_hubs": [
+    {
+      "node": "Hindus",
+      "degree": 287
+    },
+    {
+      "node": "Hindu",
+      "degree": 266
+    },
+    {
+      "node": "Caste",
+      "degree": 260
+    },
+    {
+      "node": "India",
+      "degree": 202
+    },
+    {
+      "node": "Brahmins",
+      "degree": 120
+    },
+    {
+      "node": "Shastras",
+      "degree": 111
+    },
+    {
+      "node": "Brahmin",
+      "degree": 100
+    },
+    {
+      "node": "Mahatma",
+      "degree": 95
+    },
+    {
+      "node": "the Caste System",
+      "degree": 83
+    },
+    {
+      "node": "the Hindu Society",
+      "degree": 68
+    }
+  ]
+}
