@@ -10,7 +10,7 @@ from src.retrieval.global_search import global_graph_rag_search
 
 # ---------- CONFIG ----------
 LLM_MODEL = "llama3.1:8b"     # or "mistral-7b" etc.
-MAX_LOCAL_EVIDENCE = 10
+MAX_LOCAL_EVIDENCE = 5
 MAX_GLOBAL_EVIDENCE = 10
 
 
